@@ -128,8 +128,8 @@ spring:
       client:
         registration:
           github:
-            clientId: github-client-id
-            clientSecret: github-client-secret
+            client-id: github-client-id
+            client-secret: github-client-secret
 # ...
 ----
 
